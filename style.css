@@ -20,7 +20,7 @@ header img {
     padding: 20px;
 }
 
-.game-info h2 {
+.game-info h2 h1{
     margin: 0 0 10px 0;
     text-align: center; /* Текст по центру */
 }
