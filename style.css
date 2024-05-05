@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #171d25; /* Цвет фона #171d25 */
+    color: #fff;
+}
+
+header {
+    text-align: center;
+    padding: 40px 0; /* Увеличенное расстояние сверху и снизу */
+}
+
+header img {
+    width: 600px; /* Увеличенная ширина логотипа */
+    height: auto;
+}
+
+.game-info {
+    padding: 20px;
+}
+
+.game-info h2 {
+    margin: 0 0 10px 0;
+    text-align: center; /* Текст по центру */
+}
+
+.download-section {
+    text-align: center;
+    padding: 20px;
+}
+
+#download-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px 40px; /* Увеличенные размеры кнопки */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px; /* Увеличенный размер шрифта */
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#download-button:hover {
+    background-color: #3e8e41;
+}
